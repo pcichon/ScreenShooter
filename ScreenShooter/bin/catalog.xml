@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="_e28735c2ee99bb92a9ef363b4f113e52ec29de7570610848a9688853f8a873dc_flash_display_Sprite" mod="1326718450508" signatureChecksum="346978759" >
+        <def id="_e28735c2ee99bb92a9ef363b4f113e52ec29de7570610848a9688853f8a873dc_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/genesi/desktop/ScreenShooter" mod="1326718266624" signatureChecksum="2675788298" >
+        <def id="com.genesi.desktop:ScreenShooter" /> 
+        <dep id="flash.utils:ByteArray" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.utils:ByteArray" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="b2201bb748b4793b1d4254304833bb34078101a493f1846cd8c1bc4fa949d2da"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
