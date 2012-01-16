@@ -1,5 +1,5 @@
 /**
- * DekstopMouse // Adobe AIR3.*
+ * ScreenShooter // Adobe AIR3.*
  * 
  * Source: https://github.com/pcichon/ScreenShooter
  * 
